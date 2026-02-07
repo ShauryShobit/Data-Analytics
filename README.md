@@ -44,6 +44,8 @@ The project simulates a real-world analytics workflow commonly used by data anal
 * Monthly revenue trend analysis
 * High-level KPIs for leadership decision-making
 
+![Image](https://github.com/user-attachments/assets/1be8addd-eaf6-4b47-9e4e-ab2cb5ec62df)
+
 ### 2️⃣ Customer Insights
 
 * New vs Repeat customer analysis
