@@ -89,18 +89,18 @@ The project simulates a real-world analytics workflow commonly used by data anal
 <table>
   <tr>
     <td>
-      <img src="![Image](https://github.com/user-attachments/assets/3dade1fe-ca94-4bf6-8dbe-09867bdcef86)" width="350">
+      <img src="![Image](https://github.com/user-attachments/assets/3dade1fe-ca94-4bf6-8dbe-09867bdcef86)" height="150" width="350">
     </td>
     <td>
-      <img src="![Image](https://github.com/user-attachments/assets/d234fed8-21ce-4038-9c6f-27b73f3cd6d8)" width="350">
+      <img src="![Image](https://github.com/user-attachments/assets/d234fed8-21ce-4038-9c6f-27b73f3cd6d8)" height="150" width="350">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="![Image](https://github.com/user-attachments/assets/da6c5379-2c41-4af6-981f-833ee3db48f5)" width="350">
+      <img src="![Image](https://github.com/user-attachments/assets/da6c5379-2c41-4af6-981f-833ee3db48f5)" height="150" width="350">
     </td>
     <td>
-      <img src="![Image](https://github.com/user-attachments/assets/0979c04c-37fc-4ee7-b149-a59007fe2648)" width="350">
+      <img src="![Image](https://github.com/user-attachments/assets/0979c04c-37fc-4ee7-b149-a59007fe2648)" height="150" width="350">
     </td>
   </tr>
 </table>
