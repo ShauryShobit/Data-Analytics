@@ -44,7 +44,7 @@ The project simulates a real-world analytics workflow commonly used by data anal
 * Monthly revenue trend analysis
 * High-level KPIs for leadership decision-making
 
-![Image](https://github.com/user-attachments/assets/1be8addd-eaf6-4b47-9e4e-ab2cb5ec62df)
+![Image](https://github.com/user-attachments/assets/3dade1fe-ca94-4bf6-8dbe-09867bdcef86)
 
 ### 2️⃣ Customer Insights
 
@@ -52,17 +52,23 @@ The project simulates a real-world analytics workflow commonly used by data anal
 * Customer retention metrics
 * Customer distribution across regions
 
+![Image](https://github.com/user-attachments/assets/d234fed8-21ce-4038-9c6f-27b73f3cd6d8)
+
 ### 3️⃣ Product Performance
 
 * Top product categories by revenue
 * Top-selling products
 * Revenue concentration analysis
 
+![Image](https://github.com/user-attachments/assets/da6c5379-2c41-4af6-981f-833ee3db48f5)
+
 ### 4️⃣ Delivery & Operations
 
 * Average delivery time and late delivery percentage
 * Regional delivery performance comparison
 * Relationship between delivery delays and customer review scores
+
+![Image](https://github.com/user-attachments/assets/0979c04c-37fc-4ee7-b149-a59007fe2648)
 
 ---
 
@@ -79,6 +85,25 @@ The project simulates a real-world analytics workflow commonly used by data anal
 
 * Interactive Power BI dashboard
 * Exported PDF dashboard for offline sharing
+
+<table>
+  <tr>
+    <td>
+      <img src="![Image](https://github.com/user-attachments/assets/3dade1fe-ca94-4bf6-8dbe-09867bdcef86)" width="350">
+    </td>
+    <td>
+      <img src="![Image](https://github.com/user-attachments/assets/d234fed8-21ce-4038-9c6f-27b73f3cd6d8)" width="350">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="![Image](https://github.com/user-attachments/assets/da6c5379-2c41-4af6-981f-833ee3db48f5)" width="350">
+    </td>
+    <td>
+      <img src="![Image](https://github.com/user-attachments/assets/0979c04c-37fc-4ee7-b149-a59007fe2648)" width="350">
+    </td>
+  </tr>
+</table>
 
 ---
 
